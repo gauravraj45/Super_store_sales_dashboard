@@ -1,0 +1,3 @@
+This Power BI Sales Dashboard acts as a comprehensive business intelligence tool, offering deep insights into sales performance, profitability, and operational efficiency. Key features include segment-wise sales analysis, category distribution, geographic profitability assessment through an interactive map, and year-over-year trend analysis for both sales and profit."
+​Keywords for your project include: Power BI, Sales Analysis, Data Visualization, KPI Insights, Profitability Analysis, and Sales Trends.
+<img width="1314" height="740" alt="Screenshot 2026-06-28 022354" src="https://github.com/user-attachments/assets/61b1eaf9-2556-468a-9a52-57f30c05a939" />
